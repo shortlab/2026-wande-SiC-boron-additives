@@ -1,0 +1,13 @@
+View Data  KF     Units:  T(K) P(bar) Energy(J) Quantity(mol) 
+Name: Potassium Fluoride
+ 
+Formula Weight:  58.0967032
+ 
+   Phase                                 Cp_Range,_K      Density,_g/ml Ref. 
+__ _____________________________________ ________________ _____________ ____ 
+ 
+S1 carobbiite (nacl_rock salt_structure) 298.15 - 2000.00 2.524         1    
+L1 liquid                                298.15 - 2000.00 2.452155275   1    
+G1 gas                                   298.15 - 2000.00 ideal         1    
+__ _____________________________________ ________________ _____________ ____ 
+ 

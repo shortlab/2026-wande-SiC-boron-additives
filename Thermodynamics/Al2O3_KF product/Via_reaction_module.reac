@@ -1,0 +1,19 @@
+FILE-00001    17:22    23Feb25  MIT PSFC    FactSage 8.3
+comments
+'O' '13'
+'TK' 'ATM' 'J' 'NOVPT' 'NOPHYS' 'CUT' '100.E-32 100.E-32' 'WIN' 'NOTH' 'X' 'NOAQUA' 'NOEPH' 
+'O' '10'
+'CXHY' '2' 'NOGIONTK' '2000' 'NODEMO' 'NOVIR' 'DILEX' '1e+7' 'NOG25' 'MINS2'
+'R' 'NEW'
+ 7 Al2O3  +  6 KF =  KAlO2  +  K3AlF6  + 
+'I' '   '
+ (T) (T,liq) (T) (T,s)
+'R' 'NEW'
+ K2Al12O19
+'I' '   '
+ (T,s)
+'F' 'WIN'
+ '300 1300 50' '' '' '' '' ''
+'DAT1' ' 1'
+FT53 
+ENDF-00001
