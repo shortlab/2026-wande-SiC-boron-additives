@@ -1,0 +1,36 @@
+Peak evaluation: Gravity
+Stress model: Biaxial+Shear
+
+Crystal: 
+	 2Theta0: 126.265 Used as input
+	 d0: 0.0863 nm
+	 Pseudo-Hydro: 369944.0±302581.0
+
+Sigma I: 1050.0
+
+Sigma II: 1.55648E6
+
+Sigma III: -30.0
+
+Stress tensor (MPa):
+1028.6	4003.8	-172.5	
+4003.8	1.55646E6	2725.1	
+-172.5	2725.1	0.0	
+
+Stress orientation :
+170.5	89.9	80.5	
+89.9	0.2	89.9	
+99.5	89.9	170.5	
+
+Sigma 11: 1028.6±115.5
+
+Sigma 22: 1.55646E6±1.28638E6
+
+Sigma 33: 0.0±0.0
+
+Sigma Phi: 1028.6±115.5
+
+Phi =  0; Psi = 90
+Normal: 1028.6±115.5
+Shear: -172.5±62.9
+
